@@ -1,6 +1,6 @@
 ---
 title: Yuewen Sun
-role: Ph.D. Candidate
+role: Ph.D. Candidate in Control Science
 avatar_filename: amber-sun.jpg
 bio: ""
 interests:
