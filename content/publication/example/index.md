@@ -3,7 +3,7 @@ abstract: "Our goal is to find time-delayed latent causal variables and identify
   their relations from temporal measured variables. Estimating latent causal
   variable graphs from observations is particularly challenging as the latent
   variables are not uniquely recoverable in the most general case. In this work,
-  we consider both a nonparametric, nonstationary setting and a parametetric
+  we consider both a nonparametric, nonstationary setting and a parametric
   setting for the latent processes and propose two provable conditions under
   which temporally causal latent processes can be identified. We propose LEAP, a
   theoretically-grounded architecture that extends Variational Autoencoders
@@ -11,7 +11,7 @@ abstract: "Our goal is to find time-delayed latent causal variables and identify
   process prior. We evaluate LEAP on a number of datasets including video and
   motion capture data. Experiments demonstrate that temporally causal latent
   processes are reliably identified from observed variables under different
-  dependency structure and our approach considerably outperforms those existing
+  dependency structures and our approach considerably outperforms those existing
   methods without leveraging history or nonstationarity information. This is one
   of the first works that successfully recover time-delayed latent processes
   from nonlinear mixtures without using sparsity or minimality assumptions. "
