@@ -29,7 +29,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: ""
-summary: Propose two provable conditions and training framework with which
+summary: Propose two provable conditions and one training framework with which
   temporally latent causal processes are identifiable from observed variables.
 url_dataset: ""
 url_project: ""
