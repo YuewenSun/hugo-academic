@@ -35,4 +35,6 @@ email: amber_sun@seu.edu.cn
 superuser: true
 highlight_name: true
 ---
-Welcome to Yuewen’s homepage! I’m a final year Ph.D. student in the School of Automation at Southeast University, Nanjing, under the supervision of Prof. Changyin Sun.
+Welcome to Yuewen’s homepage! 
+
+I’m a final year Ph.D. student in the School of Automation at Southeast University, Nanjing, under the supervision of Prof. Changyin Sun.
